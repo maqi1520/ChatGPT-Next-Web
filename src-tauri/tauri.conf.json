@@ -87,11 +87,11 @@
       "endpoints": [
         "https://github.com/Yidadaa/ChatGPT-Next-Web/releases/latest/download/latest.json"
       ],
-      "dialog": false,
+      "dialog": true,
       "windows": {
         "installMode": "passive"
       },
-      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IERFNDE4MENFM0Y1RTZBOTQKUldTVWFsNC96b0JCM3RqM2NmMnlFTmxIaStRaEJrTHNOU2VqRVlIV1hwVURoWUdVdEc1eDcxVEYK"
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDdEMTBCRTRCQTUwNzNFQzEKUldUQlBnZWxTNzRRZmJObWhuUEZCMTdJdElHTlVzMUFKeFUvTm1mejFHeHNDc2xPMUc4bW5LRy8K%"
     },
     "windows": [
       {
